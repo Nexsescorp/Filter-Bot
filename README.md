@@ -6,7 +6,7 @@
   <b>Channel-Post-Filter</b>
 </h1>
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@Nexses_Corporation](t.me/Nexses_Corporation)
 
 ## Telegram 
 
